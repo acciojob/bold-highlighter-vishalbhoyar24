@@ -5,7 +5,7 @@ strongElement.forEach((element)=> element.style.color = "green");
 }
 
 
-}
+
 
 
 function return_normal() {
